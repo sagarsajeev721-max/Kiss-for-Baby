@@ -1,5 +1,9 @@
 //
 
-This is a personal small project I created for my beatiful girlfriend.
+
+
+This is a small personal project I created for my beautiful girlfriend.
+
+
 
 //
